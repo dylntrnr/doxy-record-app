@@ -1,0 +1,29 @@
+{
+  "name": "async-vdot",
+  "title": "Async VDOT — Video Directly Observed Therapy",
+  "shortDescription": "Provider dashboard for async medication adherence via patient video recordings.",
+  "description": "Async VDOT brings Video Directly Observed Therapy into your doxy.me session. Designed for medication adherence programs, VDOT lets patients record themselves taking medications which providers review asynchronously — eliminating the need for live observation sessions.\n\nKey Features:\n• Dashboard with pending reviews, active patients, and adherence stats\n• Review Queue for approving or flagging patient video recordings\n• Patients list with enrollment management\n• Copy patient link button for easy onboarding\n• Auto sign-in when opened inside doxy.me via embedded handshake\n• Designed for TB, HIV, and chronic disease medication programs\n\nDemo Accounts:\n• drswensson — Dr. Swensson provider view\n• drturner — Dr. Turner provider view\n\nBuilt by doxy.me Labs. Integrated natively with doxy.me telehealth platform.",
+  "optionalDescription": "Ideal for public health providers, infectious disease clinicians, and care coordinators managing patients on observed therapy protocols. Reduces administrative burden while maintaining clinical oversight.",
+  "price": 0,
+  "status": "beta",
+  "icon": "https://dylntrnr.github.io/doxy-record-app/icon.svg",
+  "source": "https://doxy-record.replit.app/",
+  "video": null,
+  "sourceCode": "https://github.com/dylntrnr/doxy-record-app",
+  "isFake": false,
+  "metadata": {
+    "category": "clinical_tools",
+    "tags": ["vdot", "medication-adherence", "video-review", "tb", "public-health", "async-care"],
+    "developer": {
+      "name": "doxy.me Labs",
+      "email": "labs@doxy.me",
+      "website": "https://doxy.me",
+      "country": "US"
+    },
+    "links": {
+      "app": "https://doxy-record.replit.app/",
+      "terms": "https://doxy.me/terms",
+      "privacy": "https://doxy.me/privacy"
+    }
+  }
+}
